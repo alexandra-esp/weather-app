@@ -1,0 +1,50 @@
+body {
+    background: url(https://i.pinimg.com/originals/1d/26/c5/1d26c5b022c071fb8f1e3ae2f0f65ba9.gif);
+    background-size: no-repeat;
+    font-family: "VT323", monospace;
+    color: rgba(66, 140, 209, 0.747);
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(201, 160, 224);
+    font-size: 40px;
+    line-height: 28px;
+    margin: 0;
+    padding: 15px;
+    text-shadow: 2px 2px 2px rgba(207, 194, 133, 0.801);
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0 0 10px;
+  }
+  
+  li {
+    font-size: 20px;
+    line-height: 1;
+    list-style: none;
+  }
+  
+  img {
+    margin: 13px;
+  }
+  
+  .temperature {
+    font-size: 55px;
+  }
+  
+  .weather-app {
+    border: 1px dashed yellow;
+    box-shadow: 1px 1px 1px 1px lightblue;
+    border-radius: 0px;
+    margin: 25px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgba(250, 252, 251, 0.692);
+    background-size: cover;
+  }
+  
