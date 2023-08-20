@@ -53,4 +53,23 @@ body {
     background-color: rgba(250, 252, 251, 0.692);
     background-size: cover;
   }
+
+  .weather-forecast {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .weather-forecast-date {
+    color: rgb(30, 26, 26);
+    font-size: 25px;
+    opacity: 0.8;
+  }
+  
+  .weather-forecast-temperatures {
+    font-size: 18px;
+  }
+  
+  .weather-forecast-temperature-min {
+    opacity: 0.7;
+  }
   
